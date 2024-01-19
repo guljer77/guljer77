@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi there 👋 I'm Md Guljer Hossain
 
-<!--
-**guljer77/guljer77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MERN Stack Developer
 
-Here are some ideas to get you started:
+Hi there, This is Md Guljer Hossain. I am a Junior Web Developer Passionate fresher in web development seeking MERN stack experience. Dedicated to learning, collaborating, and delivering visually appealing web applications. Committed to professional growth and exceeding client expectations.
+Thanks for Visiting [ My Profile & Me ]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: HTML / CSS / Tailwind CSS/ Bootstrap / Javascript / ES6 / React.js / Express.Js / MongoDB / Node.js / Rest API / Redux Toolkit / Firebase / SSL-Commerz / Git /Figma /   
+
+- 🔭 I’m currently working on Student
+- 🌱 I’m currently learning Next Js
+- 👯 I’m looking to collaborate on GitHub
+- 📫 How to reach me: guljer.net@gmail.com
+- ⚡ Fun fact: I am a Coder
