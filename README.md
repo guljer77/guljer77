@@ -1,5 +1,7 @@
-# Hi there 👋, I'm Md. Guljer Hossain
-### MERN Stack Developer
+### Hi there 👋, I'm Md. Guljer Hossain
+#### MERN Stack Developer
+![MERN Stack Developer](https://images.prismic.io//intuzwebsite/d394de11-2b7f-4a72-a3e0-c876f7356a40_Main.png?w=1200&q=75&auto=format,compress&fm=png8)
+
 Hi there, This is Md Guljer Hossain. I am a Junior Web Developer Passionate fresher in web development seeking MERN stack experience. Dedicated to learning, collaborating, and delivering visually appealing web applications. Committed to professional growth and exceeding client expectations. Thanks for Visiting [ My Profile & Me ]
 
 Skills: HTML / CSS / Tailwind CSS/ Bootstrap / Javascript / ES6 / React.js / Express.Js / MongoDB / Node.js / Rest API / Redux Toolkit / Firebase / SSL-Commerz / Git /Figma /
