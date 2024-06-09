@@ -2,11 +2,11 @@
 #### I am FrontEnd Developer
 ![I am FrontEnd Developer](https://i.ibb.co/8bwqdjz/banner.png)
 
-Hi there, This is Md Guljer Hossain. I am a FrontEnd Web Developer Passionate fresher in web development seeking MERN stack experience. Dedicated to learning, collaborating, and delivering visually appealing web applications. Committed to professional growth and exceeding client expectations. Thanks for Visiting [ My Profile & Me ]
+Hi there, This is Md Guljer Hossain. I am a FrontEnd Web Developer, a Passionate fresher in web development seeking MERN stack experience. I am dedicated to learning, collaborating, and delivering visually appealing web applications. Committed to professional growth and exceeding client expectations. Thanks for Visiting [ My Profile & Me ]
 
 Skills: HTML / CSS / Tailwind CSS/ Bootstrap / Javascript / ES6 / React.js / Express.Js / MongoDB / Node.js / Rest API / Redux Toolkit / Firebase / SSL-Commerz / Git /Figma /
 
-- 🔭 I’m currently working on Food Delivery App 
+- 🔭 I’m currently working on a Food Delivery App 
 - 🌱 I’m currently learning Redux 
 - 💬 Ask me about React 
 - 📫 How to reach me: guljer.net@gmail.com 
