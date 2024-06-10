@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Md Guljer Hossain
-#### I am MERN stack Developer
+## Hi there 👋, my name is Md Guljer Hossain
+### I am a MERN stack Developer
 ![I am MERN stack Developer](https://i.ibb.co/4JcWGmc/Black-and-White-Gradient-Personal-Linked-In-Banner.png)
 
 Hi there, This is Md Guljer Hossain. I am a FrontEnd Web Developer, a Passionate fresher in web development seeking MERN stack experience. I am dedicated to learning, collaborating, and delivering visually appealing web applications. Committed to professional growth and exceeding client expectations. Thanks for Visiting [ My Profile & Me ]
